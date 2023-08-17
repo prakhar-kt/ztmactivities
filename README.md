@@ -1,2 +1,0 @@
-# ztmactivities
-Rust code snippets
